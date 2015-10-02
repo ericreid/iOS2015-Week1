@@ -2,6 +2,7 @@
 
 import Foundation
 
+// Do stuff
 //: Create an empty array to store shopping list items
 
 //: Add at least 5 items to the array using 3 different insertion methods
